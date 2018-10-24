@@ -18,9 +18,6 @@ import java.util.Objects;
  * This is the first view(fragment) in the view pager 
  * LiveTrackingFragment.java This fragment is for showing live tracking of vehicle and how to create
  * fence for a vehicle in the map All the walk through functionality is implemented here
- *
- * @author Contus Team <developers@contus.in>
- * @version 1.0
  */
 public class LiveTrackingFragment extends Fragment {
 

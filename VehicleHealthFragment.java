@@ -1,10 +1,4 @@
-/*
- * @category MUSA app
- * @copyright Copyright (C) 2018 Contus. All rights reserved.
- * @license http://www.apache.org/licenses/LICENSE-2.0
- */
-
-package mahindra.com.musa;
+package sample.com.sample
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -20,8 +14,6 @@ import com.bumptech.glide.Glide;
 /** 
  * VehicleHealthFragment.java
  * This frgament is the second fragment in the waltk through screen which explains about the vehicle health view   
- * @author Contus Team <developers@contus.in>
- * @version 1.0
  */
 public class VehicleHealthFragment extends Fragment {
 

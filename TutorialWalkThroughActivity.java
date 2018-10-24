@@ -1,10 +1,4 @@
-/*
- * @category MUSA app
- * @copyright Copyright (C) 2018 Contus. All rights reserved.
- * @license http://www.apache.org/licenses/LICENSE-2.0
- */
-
-package mahindra.com.musa;
+package sample.com.sample
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -18,8 +12,8 @@ import android.widget.TextView;
 
 import com.tbuonomo.viewpagerdotsindicator.SpringDotsIndicator;
 
-import mahindra.com.musa.activities.RegisterActivity;
-import mahindra.com.musa.utils.SharedPreferenceManager;
+import sample.com.sample.activities.RegisterActivity;
+import sample.com.sample.utils.SharedPreferenceManager;
 
 /**
  * TutorialWalkThroughActivity.java

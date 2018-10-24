@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/AppRedTheme.NoActionBar"
+    android:orientation="vertical"
+    android:weightSum="1"
+    android:background="@color/color_White">
+
+        <ImageView
+            android:id="@+id/gifView"
+            android:layout_width="match_parent"
+            android:layout_weight="0.6"
+            android:layout_height="0dp"
+            android:layout_marginTop="@dimen/margin_top_15"
+            android:src="@drawable/ic_livetracking" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_weight="0.1"
+            android:layout_height="0dp"
+            android:text="@string/live_tracking_amp_geofence"
+            android:gravity="center"
+            android:fontFamily="@font/poppins_semibold"
+            android:textColor="@color/black"
+            android:textSize="@dimen/reg_text_size_14">
+
+        </TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/margin_top_15"
+            android:paddingRight="@dimen/margin_top_15"
+            android:fontFamily="@font/poppins_medium"
+            android:textSize="@dimen/reg_text_size_14"
+            android:paddingTop="@dimen/margin_top_15"
+            android:gravity="center"
+            android:text="@string/livetrack_tut"/>
+    </LinearLayout>

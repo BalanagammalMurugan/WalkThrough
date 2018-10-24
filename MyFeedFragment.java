@@ -17,8 +17,6 @@ import java.util.Objects;
  * MyFeedFrgament.java
  * This fragment is the third view in the view pager screen
  * In this fragment the user can know about how to use the my feed page 
- * @author Contus Team <developers@contus.in>
- * @version 1.0
  */
 public class MyFeedFragment extends Fragment {
 

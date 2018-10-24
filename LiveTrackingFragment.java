@@ -1,9 +1,3 @@
-/*
- * @category MUSA app
- * @copyright Copyright (C) 2018 Contus. All rights reserved.
- * @license http://www.apache.org/licenses/LICENSE-2.0
- */
-
 package sample.com.sample;
 
 import android.os.Bundle;

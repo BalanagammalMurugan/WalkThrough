@@ -4,7 +4,7 @@
  * @license http://www.apache.org/licenses/LICENSE-2.0
  */
 
-package mahindra.com.musa;
+package sample.com.sample;
 
 import android.os.Bundle;
 import android.os.Handler;
